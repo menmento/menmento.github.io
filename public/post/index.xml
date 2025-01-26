@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>menmento</title>
-        <link>http://localhost:1313/</link>
-        <description>Recent content on menmento</description>
+        <title>Posts on menmento</title>
+        <link>http://localhost:1313/post/</link>
+        <description>Recent content in Posts on menmento</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>menmento</copyright>
-        <lastBuildDate>Sun, 26 Jan 2025 17:20:28 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 26 Jan 2025 17:20:28 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>hugo搭建博客记录</title>
         <link>http://localhost:1313/p/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/</link>
         <pubDate>Sun, 26 Jan 2025 17:20:28 +0800</pubDate>

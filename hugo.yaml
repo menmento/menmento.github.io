@@ -15,15 +15,15 @@ hasCJKLanguage: true
 languages:
     zh-cn:
         languageName: 中文
-        title: momento
+        title: menmento
         weight: 2
         params:
             sidebar:
-                subtitle: what is mind? no matter. what is matter? never mind.
+                subtitle: What is mind? No matter. What is matter? Never mind.
             
     en:
         languageName: English
-        title: momento
+        title: menmento
         weight: 1
         params:
             sidebar:
